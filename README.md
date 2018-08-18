@@ -43,8 +43,8 @@ mvn clean package -P *profile name*
 ```
 <dependency>
   <groupId>org.gusmp.remotekeystore.remotekeystore</groupId>
-	<artifactId>RemoteKeyStore</artifactId>
-	<version>1.0-SNAPSHOT</version>
+  <artifactId>RemoteKeyStore</artifactId>
+  <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
 
