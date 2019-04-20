@@ -2,7 +2,7 @@ package org.gusmp.remotekeystorebo.service;
 
 import java.util.Map;
 
-import org.gusmp.remotekeystorebo.bean.GetKeyStoreRequest;
+import org.gusmp.remotekeystorebo.bean.request.GetKeyStoreRequest;
 import org.gusmp.remotekeystorebo.entity.Log;
 import org.gusmp.remotekeystorebo.entity.Log.SOURCE;
 import org.springframework.beans.factory.annotation.Autowired;

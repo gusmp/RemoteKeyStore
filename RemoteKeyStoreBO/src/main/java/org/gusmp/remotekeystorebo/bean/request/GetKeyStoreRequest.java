@@ -1,4 +1,4 @@
-package org.gusmp.remotekeystorebo.bean;
+package org.gusmp.remotekeystorebo.bean.request;
 
 import lombok.Getter;
 import lombok.Setter;

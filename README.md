@@ -71,7 +71,7 @@ In RemoteKeyStore these properties are in java code:
 
 From the RemoteKeyStore back office perspective, they can be found in the file *config.properties* inside the appropriate profile
 
-3.2 Data bas support
+3.2 Data base support
 --------------------
 
 By default it is used Apache Derby because is simpler. But there are other options:

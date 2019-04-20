@@ -14,7 +14,7 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import org.gusmp.remotekeystorebo.bean.GetKeyStoreRequest;
+import org.gusmp.remotekeystorebo.bean.request.GetKeyStoreRequest;
 
 import lombok.Getter;
 import lombok.Setter;

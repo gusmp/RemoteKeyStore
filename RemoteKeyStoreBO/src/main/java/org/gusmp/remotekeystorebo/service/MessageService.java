@@ -3,7 +3,7 @@ package org.gusmp.remotekeystorebo.service;
 
 import java.util.Base64;
 
-import org.gusmp.remotekeystorebo.bean.GetKeyStoreRequest;
+import org.gusmp.remotekeystorebo.bean.request.GetKeyStoreRequest;
 import org.gusmp.remotekeystorebo.bean.request.SaveOrUpdateCertificateRequest;
 import org.gusmp.remotekeystorebo.bean.response.DeleteCertificateResponse;
 import org.gusmp.remotekeystorebo.bean.response.SaveOrUpdateCertificateResponse;
